@@ -13,5 +13,5 @@ Known Issues:
 1. GitHub Actions demonstration requires internet access and GitHub login.
 2. Word/PPT/Excel files are tracked but not suitable for detailed line-wise merge.
 
-second commit in release notes on 14/07/26
-today 15/07/26 with github
+15/07/26 with github
+
